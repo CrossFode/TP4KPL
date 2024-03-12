@@ -12,3 +12,4 @@ C:\Users\fauzan\Desktop\KPL\TP4KPL\TP4KPL\obj\Debug\net8.0\refint\TP4KPL.dll
 C:\Users\fauzan\Desktop\KPL\TP4KPL\TP4KPL\obj\Debug\net8.0\TP4KPL.pdb
 C:\Users\fauzan\Desktop\KPL\TP4KPL\TP4KPL\obj\Debug\net8.0\TP4KPL.genruntimeconfig.cache
 C:\Users\fauzan\Desktop\KPL\TP4KPL\TP4KPL\obj\Debug\net8.0\ref\TP4KPL.dll
+C:\Users\fauzan\Desktop\KPL\TP4KPL\TP4KPL\obj\Debug\net8.0\TP4KPL.sourcelink.json
