@@ -1,0 +1,14 @@
+C:\Users\fauzan\Desktop\KPL\TP4KPL\TP4KPL\bin\Debug\net8.0\TP4KPL.exe
+C:\Users\fauzan\Desktop\KPL\TP4KPL\TP4KPL\bin\Debug\net8.0\TP4KPL.deps.json
+C:\Users\fauzan\Desktop\KPL\TP4KPL\TP4KPL\bin\Debug\net8.0\TP4KPL.runtimeconfig.json
+C:\Users\fauzan\Desktop\KPL\TP4KPL\TP4KPL\bin\Debug\net8.0\TP4KPL.dll
+C:\Users\fauzan\Desktop\KPL\TP4KPL\TP4KPL\bin\Debug\net8.0\TP4KPL.pdb
+C:\Users\fauzan\Desktop\KPL\TP4KPL\TP4KPL\obj\Debug\net8.0\TP4KPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauzan\Desktop\KPL\TP4KPL\TP4KPL\obj\Debug\net8.0\TP4KPL.AssemblyInfoInputs.cache
+C:\Users\fauzan\Desktop\KPL\TP4KPL\TP4KPL\obj\Debug\net8.0\TP4KPL.AssemblyInfo.cs
+C:\Users\fauzan\Desktop\KPL\TP4KPL\TP4KPL\obj\Debug\net8.0\TP4KPL.csproj.CoreCompileInputs.cache
+C:\Users\fauzan\Desktop\KPL\TP4KPL\TP4KPL\obj\Debug\net8.0\TP4KPL.dll
+C:\Users\fauzan\Desktop\KPL\TP4KPL\TP4KPL\obj\Debug\net8.0\refint\TP4KPL.dll
+C:\Users\fauzan\Desktop\KPL\TP4KPL\TP4KPL\obj\Debug\net8.0\TP4KPL.pdb
+C:\Users\fauzan\Desktop\KPL\TP4KPL\TP4KPL\obj\Debug\net8.0\TP4KPL.genruntimeconfig.cache
+C:\Users\fauzan\Desktop\KPL\TP4KPL\TP4KPL\obj\Debug\net8.0\ref\TP4KPL.dll
